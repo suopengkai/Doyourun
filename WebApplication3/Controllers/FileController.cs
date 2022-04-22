@@ -21,7 +21,8 @@ namespace WebApplication3.Controllers
 		[HttpPost("UploadFile")]
 		public void UploadFile()
 		{
-			var abc = Request.Form["jj"];
+
+			var abc = Request.Form["dev"];
 			IFormFile ff = Request.Form.Files["hh"];
 			IFormFile file = Request.Form.Files[0];
 			string type = "";
