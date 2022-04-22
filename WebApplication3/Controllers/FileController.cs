@@ -27,7 +27,7 @@ namespace WebApplication3.Controllers
 			string type = "";
 			if (ff.FileName.Contains(".xls"))
 			{
-				type = "xls";
+				type = "xls";   
 			}
 			Stream stream = ff.OpenReadStream();
 
