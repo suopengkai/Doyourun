@@ -1,0 +1,14 @@
+
+               <table border='1' width ='100%' style'color : red'>
+			<tr height='20' align='center' style='font-weight:bold'> <td>项目</td> <td>年纪</td> <td>年月</td></tr> 
+
+			<tr height='20' align='center' > <td>玛咖</td> <td>44</td> <td>204</td></tr> 
+			<tr height='20' align='center' > <td>禁言没</td> <td>33</td> <td>24</td></tr> 
+			<tr height='20' align='center'> <td>寒玉箫面膜</td> <td>55</td> <td>4234</td></tr> 
+			</table> 
+			<table border='2' width ='100%' style'color : green'>
+			<tr height='20' align='center' style='font-weight:bold'> <td>项目2</td> <td>年纪2</td> <td>年月2</td></tr> 
+			<tr height='20' align='center' > <td>玛咖</td> <td>44</td> <td>204</td></tr> 
+			<tr height='20' align='center' > <td>禁言没</td> <td>33</td> <td>24</td></tr> 
+			<tr height='20' align='center' style'color : red' >  <td>寒玉箫面膜</td> <td>55</td> <td>4234</td></tr> 
+			</table>
